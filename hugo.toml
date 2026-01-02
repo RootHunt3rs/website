@@ -1,0 +1,15 @@
+baseURL = "https://roothunt3rs.github.io/website/"
+languageCode = "en"
+title = "RootHunt3rs CTF Team"
+theme = "blowfish"
+
+enableRobotsTXT = true
+
+[pagination]
+  paginate = 10
+
+[params]
+  colorScheme = "dark"
+  defaultAppearance = "dark"
+  enableSearch = true
+  enableCodeCopy = true
