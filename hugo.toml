@@ -5,6 +5,9 @@ theme = "blowfish"
 
 enableRobotsTXT = true
 
+relativeURLs = true
+canonifyURLs = true
+
 [pagination]
   pagerSize = 10
 
@@ -13,3 +16,4 @@ enableRobotsTXT = true
   defaultAppearance = "dark"
   enableSearch = true
   enableCodeCopy = true
+
