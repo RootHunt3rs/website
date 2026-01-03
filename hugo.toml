@@ -5,7 +5,6 @@ theme = "blowfish"
 
 enableRobotsTXT = true
 relativeURLs = true
-canonifyURLs = true
 
 [pagination]
   pagerSize = 10
