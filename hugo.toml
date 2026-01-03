@@ -4,7 +4,6 @@ title = "RootHunt3rs CTF Team"
 theme = "blowfish"
 
 enableRobotsTXT = true
-
 relativeURLs = true
 canonifyURLs = true
 
