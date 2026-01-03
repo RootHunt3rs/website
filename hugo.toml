@@ -4,9 +4,11 @@ title = "RootHunt3rs CTF Team"
 theme = "blowfish"
 
 enableRobotsTXT = true
+canonifyURLs = true
+relativeURLs = true
 
 [pagination]
-  paginate = 10
+  pagerSize = 10
 
 [params]
   colorScheme = "dark"
